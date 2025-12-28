@@ -1,6 +1,6 @@
 {
     "name": "SScript",
-    "url": "https://github.com/ThomasDarkson/SScript",
+    "url": "https://github.com/DeveloperPorting-Stuff/SScript-7.7.0",
     "license": "Apache",
     "tags": [
         "hscript",
@@ -15,3 +15,4 @@
     ],
     "dependencies": {}
 }
+
